@@ -26,3 +26,16 @@ okaaaaaaaaay...
 3. game location
 4. roms location (leave empty, only for emulators with--> .exe <gamerom.gba>)
 5. process name (to kill it with key combination and allow to come back to game manager, if you hate game manager so much then delete it, wash your eyes and give them fire for 50 seconds. then d- okno. love you :3)
+
+
+TODO:
+1. background color, background image, background animated image.
+2. two.
+3. three.
+4. four.
+5. five.
+6. six.
+7. seven.
+8. height.
+9. nani.
+10. then.
