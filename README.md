@@ -4,7 +4,8 @@ game manager made with game maker 8... made with frustration bc the engine of my
 DO NOT EXPECT THAT IM GOING TO FIX THAT SHIT WHEN YOU CLOSE A GAME MANUALLY INSTEAD WITH BUTTON COMBINATION. (do not, but maybe i will)
 
 keyboard?
-what the fuck is that?
+what the fuck is that? (okno. after 99999 edits to this readme, the keys are: left, right, up, down. Z key to choose game.... wait how to kill process?. idk better use joystick bc that was the actual f- reason to do this.)
+
 i only know about joysticks....
 and do not expect that tho....
 
