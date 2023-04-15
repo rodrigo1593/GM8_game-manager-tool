@@ -29,6 +29,8 @@ okaaaaaaaaay...
 4. roms location (leave empty, only for emulators with--> .exe <gamerom.gba>)
 5. process name (to kill it with key combination and allow to come back to game manager, if you hate game manager so much then delete it, wash your eyes and give them fire for 50 seconds. then d- okno. love you :3)
 
+## 6. does nothing rn (well smt dumb lmao). 
+## 7. set custom background rgb colour. ex: rgb red: 255,0,0 ----> 255000000
 
 DONE:
 1. background color.
