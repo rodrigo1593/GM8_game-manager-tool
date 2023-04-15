@@ -29,8 +29,12 @@ okaaaaaaaaay...
 5. process name (to kill it with key combination and allow to come back to game manager, if you hate game manager so much then delete it, wash your eyes and give them fire for 50 seconds. then d- okno. love you :3)
 
 
+DONE:
+1. background color.
+
+
 TODO:
-1. background color, background image, background animated image.
+1. background image, background animated image.
 2. two.
 3. three.
 4. four.
