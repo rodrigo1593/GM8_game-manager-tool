@@ -12,7 +12,8 @@ and do not expect that tho....
 the key combination is:https://www.youtube.com/watch?v=QPIvaN4PoIo
 okno that is the ""preview"".
 
-the key combination is: 1+2+3+4+5+6+7+8. or if its hard for you: triangle+circle+square+cross+L1+L2+R1+R2.
+ the key combination is: 1+2+3+4+5+6+7+8. or if its hard for you: triangle+circle+square+cross+L1+L2+R1+R2.
+ ## THE KEY COMBINATION CAN NOW BE REMOVED OR CUSTOMIZED IN JOY.DAT FILE HEEHHEHEHEHEHEH. SAME BUTTONS ORDER BUT YOU CAN ACTIVATE/DEACTIVATE THEM BY WRITING 0 OR 1 ON EVERY POSITION OWO
 
 have fun.
 
